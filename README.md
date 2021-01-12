@@ -22,4 +22,10 @@
 <a href="http://morintex.ru/wp-content/files_mf/1608836369MITVOL50No4PART12020.pdf">"Локализация и исключение бликов на изображениях поверхности
 моделированного льда" on 251 - 257 pages</a>
 
+<br />
+
+## Patents
+<a href="https://github.com/Ilya-Belyanov/Ilya-Belyanov/blob/master/src/Certificate%20-%20Program%20for%20localization%20and%20elimination%20of%20glare.pdf">"Certificate - Program for localization and elimination of glare"</a>
+
+
 
