@@ -26,6 +26,5 @@
 
 ## Patents
 <a href="https://github.com/Ilya-Belyanov/Ilya-Belyanov/blob/master/src/Certificate%20-%20Program%20for%20localization%20and%20elimination%20of%20glare.pdf">"Certificate - Program for localization and elimination of glare"</a>
-
-
-
+<br />
+<a href="https://github.com/Ilya-Belyanov/Ilya-Belyanov/blob/master/src/Certificate%20-%20Program%20of%20neural%20network%20classifier%20of%20burst%20structures%20in%20the%20time%20series%20of%20ice%20loads.pdf">"Certificate - Program of neural network classifier of burst structures in the time series of ice loads"</a>
