@@ -1,9 +1,11 @@
 ### Hi there, I'm [Ilya-Belyanov!](https://anuraghazra.github.io) 👋
 
 <a href="https://vk.com/i_belyanov">
-  <img align="left" alt="Ilya-Belyanov | VK" width="30px" src="https://raw.githubusercontent.com/Ilya-Belyanov/Ilya-Belyanov/master/assets/vk-com.svg" />
+  <img align="left" alt="Ilya-Beldyanov | VK" width="30px" src="https://raw.githubusercontent.com/Ilya-Belyanov/Ilya-Belyanov/master/assets/vk-com.svg" />
 </a>
-
+<a href="https://t-do.ru/ilyabelyanov">
+  <img align="left" alt="Ilya-Belyanov | TELEGRAM" width="30px" src="https://raw.githubusercontent.com/Ilya-Belyanov/Ilya-Belyanov/master/assets/telegram.png" />
+</a>
 <br />
 <br />
 
