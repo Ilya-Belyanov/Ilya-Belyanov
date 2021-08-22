@@ -1,20 +1,41 @@
+### Hi there, I'm [Ilya-Belyanov!](https://anuraghazra.github.io) 👋
+
+<a href="https://vk.com/i_belyanov">
+  <img align="left" alt="Ilya-Belyanov | VK" width="30px" src="https://raw.githubusercontent.com/Ilya-Belyanov/Ilya-Belyanov/master/assets/vk-com.svg" />
+</a>
+
+<br />
+<br />
+
+Hi, I'm Ilya Belyanov, student of SPbPU. My Bachelor's Degree Profile is Nanotechnology.
+But i started learning programming and decided to change my profile. 
+Now I am a first-year magistracy's student in Robotics.
+
+## CodeWars
+
+<img src="https://www.codewars.com/users/Ilya-Belyanov/badges/large" alt="Ilya-Belyanov's CodeWars">
 
 ## Technologies
-
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img alt="Qt" 
+     align="left"
+     height="40" 
+     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
+<img alt="MySQLSql"  align="left"   height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img alt="Arduino"  align="left"   height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <br />
 <br />
 
-<img align="left" alt="Ilya-Belyanov's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ilya-Belyanov&show_icons=true&hide_border=true" />
+## Stats
+<!--<img align="left" alt="Ilya-Belyanov's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ilya-Belyanov&show_icons=true&hide_border=true" />-->
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<a href="https://github.com/nevrending/github-readme-stats">
+  <img align="center" 
+       alt="Ilya-Belyanov's Top Lang stats"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya-Belyanov&layout=compact" />
+</a>
+
 <br />
 <br />
 
