@@ -1,4 +1,4 @@
-### Hi there, I'm [Ilya-Belyanov!](https://anuraghazra.github.io) 👋
+### Hi there, I'm Ilya-Belyanov 👋
 
 <a href="https://vk.com/i_belyanov">
   <img align="left" alt="Ilya-Beldyanov | VK" width="30px" src="https://raw.githubusercontent.com/Ilya-Belyanov/Ilya-Belyanov/master/assets/vk-com.svg" />
