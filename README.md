@@ -30,7 +30,7 @@ Now I am a first-year magistracy's student in Robotics.
 <br />
 
 ## Stats
-<!--<img align="left" alt="Ilya-Belyanov's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ilya-Belyanov&show_icons=true&hide_border=true" />-->
+<img align="left" alt="Ilya-Belyanov's Github Stats" src="https://github-readme-stats-belyanovia-gmailcom.vercel.app/api?username=Ilya-Belyanov&show_icons=true&hide_border=true" />
 
 <a href="https://github.com/nevrending/github-readme-stats">
   <img align="center" 
