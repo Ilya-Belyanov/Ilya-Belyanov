@@ -42,12 +42,12 @@ Now I am a first-year magistracy's student in Robotics.
 <br />
 
 ## Scientific works
-<a href="http://morintex.ru/wp-content/files_mf/1608836369MITVOL50No4PART12020.pdf">"Локализация и исключение бликов на изображениях поверхности
+1. <a href="http://morintex.ru/wp-content/files_mf/1616402918%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB450%D1%82.12020.pdf">"Локализация и исключение бликов на изображениях поверхности
 моделированного льда" on 251 - 257 pages</a>
 
 <br />
 
 ## Patents
-<a href="https://github.com/Ilya-Belyanov/Ilya-Belyanov/blob/master/src/Certificate%20-%20Program%20for%20localization%20and%20elimination%20of%20glare.pdf">"Certificate - Program for localization and elimination of glare"</a>
-<br />
-<a href="https://github.com/Ilya-Belyanov/Ilya-Belyanov/blob/master/src/Certificate%20-%20Program%20of%20neural%20network%20classifier%20of%20burst%20structures%20in%20the%20time%20series%20of%20ice%20loads.pdf">"Certificate - Program of neural network classifier of burst structures in the time series of ice loads"</a>
+<a href="https://drive.google.com/drive/folders/14BR4Tb8OLMVAT8WOMgImCM0dpV3eAfrY?usp=sharing">Link to files</a>
+1. Certificate - Program for localization and elimination of glare.
+2. Certificate - Program of neural network classifier of burst structures in the time series of ice loads.
