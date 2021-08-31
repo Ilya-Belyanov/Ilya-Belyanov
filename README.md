@@ -42,6 +42,13 @@ Now I am a first-year magistracy's student in Robotics.
 <br />
 <br />
 
+## Contests
+<a href="https://drive.google.com/drive/folders/1ng9jM-G0w9j3UuOqYz2fRI8OFFzHxiLO">Link to files</a>
+1. Certificate - сontest: "Путь в науку", work: 
+<a href="https://nauchkor.ru/pubs/60c50102e4dde500012f1ccc">"РАЗРАБОТКА И СОЗДАНИЕ УСТАНОВКИ РЕАКТИВНОГО МАГНЕТРОННОГО РАСПЫЛЕНИЯ"</a>.
+
+<br />
+
 ## Scientific works
 1. <a href="http://morintex.ru/wp-content/files_mf/1616402918%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB450%D1%82.12020.pdf">"Локализация и исключение бликов на изображениях поверхности
 моделированного льда" on 251 - 257 pages</a>
