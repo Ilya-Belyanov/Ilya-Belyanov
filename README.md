@@ -42,6 +42,11 @@ Now I am a first-year magistracy's student in Robotics.
 <br />
 <br />
 
+## Codiga
+<a href="https://app.codiga.io/public/user/github/Ilya-Belyanov">
+   <img src="https://api.codiga.io/public/badge/user/github/Ilya-Belyanov?style=light" alt="codiga badge" />
+</a>
+
 ## Contests
 <a href="https://drive.google.com/drive/folders/1ng9jM-G0w9j3UuOqYz2fRI8OFFzHxiLO?usp=sharing">Link to files</a>
 1. Certificate - сontest: "Путь в науку", work: 
