@@ -60,6 +60,9 @@ Now I am a first-year magistracy's student in Robotics.
 моделированного льда" on 251 - 257 pages</a>
 2. OES diagnostics as a universal technique to control the Si etching structures
 profile in ICP
+3. ПРИМЕНЕНИЕ МЕТОДОВ МАШИННОГО ОБУЧЕНИЯ ДЛЯ РОСТА
+ПОКРЫТИЙ ОКСИД ИНДИЯ-ОЛОВА НА УСТАНОВКЕ РЕАКТИВНОГО
+МАГНЕТРОННОГО РАСПЫЛЕНИЯ
 <br />
 
 ## Conferences
