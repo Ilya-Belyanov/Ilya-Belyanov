@@ -14,13 +14,6 @@ But i started learning programming and decided to change my profile.
 And now I am a second-year magistracy's student in Robotics.
 I will continue my master's degree in this direction.
 
-## CodeWars
-
-<img src="https://www.codewars.com/users/Ilya-Belyanov/badges/large" alt="Ilya-Belyanov's CodeWars">
-
-## LeetCode
-![Leetcode Stats](https://leetcard.jacoblin.cool/Ilya-Belyanov)
-
 ## Technologies
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img alt="Qt" 
@@ -34,7 +27,6 @@ I will continue my master's degree in this direction.
 <img alt="Git"  align="left"   height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img alt="Arduino"  align="left"   height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <br />
-<br />
 
 ## Stats
 <img align="left" alt="Ilya-Belyanov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ilya-Belyanov&show_icons=true&hide_border=true" />
@@ -47,6 +39,13 @@ I will continue my master's degree in this direction.
 
 <br />
 <br />
+
+## CodeWars
+
+<img src="https://www.codewars.com/users/Ilya-Belyanov/badges/large" alt="Ilya-Belyanov's CodeWars">
+
+## LeetCode
+![Leetcode Stats](https://leetcard.jacoblin.cool/Ilya-Belyanov)
 
 ## Codiga
 <a href="https://app.codiga.io/public/user/github/Ilya-Belyanov">
