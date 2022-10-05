@@ -27,6 +27,7 @@ I will continue my master's degree in this direction.
 <img alt="Git"  align="left"   height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img alt="Arduino"  align="left"   height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <br />
+<br />
 
 ## Stats
 <img align="left" alt="Ilya-Belyanov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ilya-Belyanov&show_icons=true&hide_border=true" />
@@ -36,7 +37,6 @@ I will continue my master's degree in this direction.
        alt="Ilya-Belyanov's Top Lang stats"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya-Belyanov&layout=compact" />
 </a>
-
 <br />
 <br />
 
