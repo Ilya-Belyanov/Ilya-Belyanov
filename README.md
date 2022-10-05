@@ -57,7 +57,6 @@ I will continue my master's degree in this direction.
 1. Certificate - сontest: "Путь в науку", work: 
 <a href="https://nauchkor.ru/pubs/60c50102e4dde500012f1ccc">"РАЗРАБОТКА И СОЗДАНИЕ УСТАНОВКИ РЕАКТИВНОГО МАГНЕТРОННОГО РАСПЫЛЕНИЯ"</a>.
 2. УМНИК - грант на 2 года
-<br />
 
 ## Scientific works
 <a href="https://drive.google.com/drive/folders/1zEWtSOyW2T4gbHxsS1x2JN_scsx76b0B?usp=sharing">Link to files</a>
@@ -69,12 +68,10 @@ profile in ICP
 ПОКРЫТИЙ ОКСИД ИНДИЯ-ОЛОВА НА УСТАНОВКЕ РЕАКТИВНОГО
 МАГНЕТРОННОГО РАСПЫЛЕНИЯ
 4. ПРИМЕНЕНИЕ МЕТОДОВ ML (ВАК)
-<br />
 
 ## Conferences
 <a href="https://drive.google.com/drive/folders/14zcp6Lx6blL4h1W8DEIoN28SsNXdBz35?usp=sharing">Link to files</a>
 1. Certificate of the participant of the conference of the Higher School of Mechanical Engineering of SPbPU.
-<br />
 
 ## Patents
 <a href="https://drive.google.com/drive/folders/14BR4Tb8OLMVAT8WOMgImCM0dpV3eAfrY?usp=sharing">Link to files</a>
