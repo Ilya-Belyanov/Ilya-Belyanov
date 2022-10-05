@@ -63,6 +63,7 @@ profile in ICP
 3. ПРИМЕНЕНИЕ МЕТОДОВ МАШИННОГО ОБУЧЕНИЯ ДЛЯ РОСТА
 ПОКРЫТИЙ ОКСИД ИНДИЯ-ОЛОВА НА УСТАНОВКЕ РЕАКТИВНОГО
 МАГНЕТРОННОГО РАСПЫЛЕНИЯ
+4. ПРИМЕНЕНИЕ МЕТОДОВ ML (ВАК)
 <br />
 
 ## Conferences
@@ -74,3 +75,4 @@ profile in ICP
 <a href="https://drive.google.com/drive/folders/14BR4Tb8OLMVAT8WOMgImCM0dpV3eAfrY?usp=sharing">Link to files</a>
 1. Certificate - Program for localization and elimination of glare.
 2. Certificate - Program of neural network classifier of burst structures in the time series of ice loads.
+3. Installation Implementation - Automatization magnetron sputtering system.
