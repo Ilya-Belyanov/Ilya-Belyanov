@@ -11,7 +11,8 @@
 
 Hi, I'm Ilya Belyanov, student of SPbPU. My Bachelor's Degree Profile is Nanotechnology.
 But i started learning programming and decided to change my profile. 
-Now I am a first-year magistracy's student in Robotics.
+And now I am a second-year magistracy's student in Robotics.
+I will continue my master's degree in this direction.
 
 ## CodeWars
 
